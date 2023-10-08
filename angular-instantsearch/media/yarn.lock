@@ -6788,12 +6788,12 @@ yn@^2.0.0:
   resolved "https://registry.yarnpkg.com/yn/-/yn-2.0.0.tgz#e5adabc8acf408f6385fc76495684c88e6af689a"
   integrity sha1-5a2ryKz0CPY4X8dklWhMiOavaJo=
 
-zone.js@0.11.4:
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.11.4.tgz#0f70dcf6aba80f698af5735cbb257969396e8025"
-  integrity sha512-DDh2Ab+A/B+9mJyajPjHFPWfYU1H+pdun4wnnk0OcQTNjem1XQSZ2CDW+rfZEUDjv5M19SBqAkjZi0x5wuB5Qw==
+zone.js@0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.14.0.tgz#ddab2133e8a88be4b225fc2a414e8357f9902a68"
+  integrity sha512-Sz0G0TjMuyApIcuTJeK742+xLLKEPjYtkdBEazBlYePHkICVp9DPKqI/4dJt3LCtQBd52sCxz23uAFJ2OJa6Ow==
   dependencies:
-    tslib "^2.0.0"
+    tslib "^2.3.0"
 
 zone.js@~0.10.3:
   version "0.10.3"
